@@ -981,3 +981,70 @@
 [22:40:08] [Server thread/WARN]: SImpious moved too quickly! 10.014848062656483,-0.2522033402537289,1.3021336490351132
 [22:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
 [22:40:48] [Server thread/INFO]: <SImpious> i found my new home
+[22:41:03] [Server thread/INFO]: <bubbie> what is it?
+[22:41:10] [Server thread/INFO]: <SImpious> a cave
+[22:41:24] [Server thread/INFO]: [Server] is server lagging?
+[22:41:34] [Server thread/INFO]: <SImpious> no
+[22:41:49] [Server thread/INFO]: [Server] im making a worl/say im making a world back up rn with github
+[22:45:02] [Server thread/INFO]: Set the time to 1000
+[22:45:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4953ms or 99 ticks behind
+[22:45:13] [Server thread/WARN]: xXrazzerlightXx moved too quickly! 10.23172771229423,1.0,-0.3254375579548707
+[22:45:43] [User Authenticator #22/INFO]: UUID of player Andriani is 64d6b7f7-f804-42fd-95ad-a7134e67407d
+[22:45:43] [Server thread/INFO]: Andriani[/192.168.254.254:55387] logged in with entity id 339453 at (-585.700000025332, 71.0000002, 1353.299999974668)
+[22:45:43] [Server thread/INFO]: Andriani joined the game
+[22:46:57] [Server thread/INFO]: SImpious has made the advancement [Acquire Hardware]
+[22:47:05] [Server thread/INFO]: SImpious has made the advancement [Isn't It Iron Pick]
+[22:50:16] [Server thread/WARN]: Taemytoob moved too quickly! 9.969694761151345,2.1661092609382138,-0.36807826180188385
+[22:50:16] [Server thread/WARN]: SImpious moved too quickly! -8.946767187645378,4.0,2.4759852558489683
+[22:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[22:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[23:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[23:05:24] [Server thread/WARN]: xXrazzerlightXx moved too quickly! -8.897413268374322,1.0,4.5587817578277665
+[23:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[23:09:08] [Server thread/INFO]: Taemytoob lost connection: Disconnected
+[23:09:08] [Server thread/INFO]: Taemytoob left the game
+[23:09:13] [User Authenticator #23/INFO]: UUID of player Taemytoob is b37d07fb-a9b5-49a7-a227-56e1db870f26
+[23:09:13] [Server thread/INFO]: Taemytoob[/24.88.94.198:53597] logged in with entity id 391437 at (-574.6999999880791, 73.0, 1348.0029637668017)
+[23:09:13] [Server thread/INFO]: Taemytoob joined the game
+[23:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[23:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[23:17:05] [Server thread/INFO]: SImpious lost connection: Disconnected
+[23:17:05] [Server thread/INFO]: SImpious left the game
+[23:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[23:22:11] [Server thread/INFO]: <bubbie> -help
+[23:22:11] [Server thread/INFO]: <Andriani> Hey, bubbie the commands are: -tps, -ping, -myping, -ping playername, -worstping, -bestping
+[23:22:11] [Server thread/INFO]: <Andriani> bubbie's ping is 45
+[23:22:19] [User Authenticator #24/INFO]: UUID of player SImpious is 69e3fcc8-c85f-49c8-8c16-e043b8abfdfd
+[23:22:19] [Server thread/INFO]: SImpious[/172.75.91.248:51118] logged in with entity id 414076 at (437.90824346466036, 43.0, -117.23750001192093)
+[23:22:19] [Server thread/INFO]: SImpious joined the game
+[23:22:27] [Server thread/INFO]: <bubbie> -tps
+[23:22:27] [Server thread/INFO]: <Andriani> Tps is currently 19.32
+[23:22:30] [Server thread/INFO]: <bubbie> -xray
+[23:22:30] [Server thread/INFO]: <Andriani> Incorrect command, try -help
+[23:22:34] [Server thread/INFO]: <SImpious> -shut_the_fuck_up_andriani
+[23:22:34] [Server thread/INFO]: <Andriani> Close, SImpious, but the correct command is: -help
+[23:22:36] [Server thread/INFO]: <bubbie> -help
+[23:22:50] [Server thread/INFO]: <Andriani> -ping
+[23:22:50] [Server thread/INFO]: <Andriani> Pong
+[23:22:56] [Server thread/INFO]: SImpious lost connection: Disconnected
+[23:22:56] [Server thread/INFO]: SImpious left the game
+[23:23:02] [Server thread/INFO]: <bubbie> -xray
+[23:23:02] [Server thread/INFO]: <Andriani> Close, bubbie, but the correct command is: -help
+[23:23:15] [Server thread/INFO]: [Andriani: Set the time to 1000]
+[23:24:00] [User Authenticator #25/INFO]: UUID of player Simpious is 69e3fcc8-c85f-49c8-8c16-e043b8abfdfd
+[23:24:00] [Server thread/INFO]: Simpious[/172.75.91.248:51259] logged in with entity id 417504 at (438.47737494681076, 42.0, -123.09867542465267)
+[23:24:00] [Server thread/INFO]: Simpious joined the game
+[23:24:03] [Server thread/INFO]: <Simpious> hhf
+[23:24:19] [Server thread/INFO]: Simpious lost connection: Disconnected
+[23:24:19] [Server thread/INFO]: Simpious left the game
+[23:24:22] [User Authenticator #26/INFO]: UUID of player Simpious is 69e3fcc8-c85f-49c8-8c16-e043b8abfdfd
+[23:24:22] [Server thread/INFO]: Simpious[/172.75.91.248:51275] logged in with entity id 419047 at (438.240874280946, 42.0, -120.15063367708915)
+[23:24:22] [Server thread/INFO]: Simpious joined the game
+[23:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[23:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[23:32:42] [Server thread/WARN]: Andriani moved wrongly!
+[23:35:39] [Server thread/WARN]: bubbie moved too quickly! 10.220991635573114,0.0,0.3887258459901659
+[23:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[23:36:29] [Server thread/WARN]: Andriani moved wrongly!
+[23:37:39] [Server thread/WARN]: Andriani moved wrongly!
+[23:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3678ms or 73 ticks behind
