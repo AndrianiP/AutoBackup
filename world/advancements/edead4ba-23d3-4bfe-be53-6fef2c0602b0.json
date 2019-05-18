@@ -247,6 +247,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2019-05-17 23:46:14 -0400",
       "cooked_beef": "2019-05-15 22:32:00 -0400",
       "apple": "2019-05-17 23:07:42 -0400",
       "cooked_cod": "2019-05-17 23:19:33 -0400",
@@ -645,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-05-17 23:48:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-05-15 23:24:26 -0400",
@@ -652,6 +659,7 @@
       "minecraft:zombie_pigman": "2019-05-15 23:25:03 -0400",
       "minecraft:spider": "2019-05-15 22:07:25 -0400",
       "minecraft:creeper": "2019-05-15 22:49:29 -0400",
+      "minecraft:witch": "2019-05-17 23:48:46 -0400",
       "minecraft:wither_skeleton": "2019-05-15 23:24:15 -0400",
       "minecraft:stray": "2019-05-17 22:21:09 -0400",
       "minecraft:zombie": "2019-05-15 21:57:29 -0400",
@@ -1005,6 +1013,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-05-15 22:48:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-05-17 23:48:47 -0400"
     },
     "done": true
   },

@@ -331,7 +331,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2019-05-16 21:04:31 -0400"
+      "baked_potato": "2019-05-16 21:04:31 -0400",
+      "melon_slice": "2019-05-18 00:38:18 -0400",
+      "carrot": "2019-05-18 00:22:03 -0400"
     },
     "done": false
   },
@@ -1399,6 +1401,7 @@
     "criteria": {
       "minecraft:jungle_edge": "2019-05-17 20:36:53 -0400",
       "minecraft:cold_ocean": "2019-05-17 20:57:44 -0400",
+      "minecraft:snowy_mountains": "2019-05-18 00:17:42 -0400",
       "minecraft:forest": "2019-05-16 20:46:13 -0400",
       "minecraft:mountains": "2019-05-17 20:37:35 -0400",
       "minecraft:taiga": "2019-05-17 20:44:45 -0400",
