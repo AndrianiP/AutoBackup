@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2019-05-18 04:11:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-05-17 22:46:57 -0400"
@@ -626,6 +632,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2019-05-17 22:38:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2019-05-18 04:11:26 -0400"
     },
     "done": true
   },
@@ -835,7 +847,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-05-18 04:25:08 -0400",
       "minecraft:creeper": "2019-05-17 22:28:12 -0400",
+      "minecraft:silverfish": "2019-05-18 03:45:04 -0400",
       "minecraft:zombie": "2019-05-17 22:23:13 -0400"
     },
     "done": false
@@ -1532,16 +1546,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2019-05-18 04:36:37 -0400",
       "minecraft:forest": "2019-05-17 22:19:41 -0400",
       "minecraft:mountains": "2019-05-17 22:44:23 -0400",
       "minecraft:taiga": "2019-05-17 22:51:12 -0400",
       "minecraft:snowy_tundra": "2019-05-18 00:21:36 -0400",
       "minecraft:frozen_river": "2019-05-18 00:28:09 -0400",
+      "minecraft:snowy_beach": "2019-05-18 04:00:46 -0400",
+      "minecraft:deep_lukewarm_ocean": "2019-05-18 04:11:28 -0400",
       "minecraft:beach": "2019-05-17 23:47:09 -0400",
       "minecraft:river": "2019-05-17 22:24:52 -0400",
+      "minecraft:lukewarm_ocean": "2019-05-18 04:01:56 -0400",
       "minecraft:snowy_taiga": "2019-05-17 22:28:22 -0400",
       "minecraft:wooded_mountains": "2019-05-18 00:20:28 -0400",
       "minecraft:wooded_hills": "2019-05-17 22:29:45 -0400",
+      "minecraft:stone_shore": "2019-05-18 04:02:49 -0400",
       "minecraft:plains": "2019-05-17 22:30:03 -0400"
     },
     "done": false
