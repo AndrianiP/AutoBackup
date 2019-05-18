@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-05-16 21:05:10 -0400"
@@ -200,6 +206,15 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2019-05-17 20:28:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-05-18 01:13:22 -0400",
+      "diamond_helmet": "2019-05-18 01:13:22 -0400",
+      "diamond_chestplate": "2019-05-18 01:13:22 -0400",
+      "diamond_boots": "2019-05-18 01:13:22 -0400"
     },
     "done": true
   },
@@ -332,6 +347,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2019-05-16 21:04:31 -0400",
+      "suspicious_stew": "2019-05-18 01:21:54 -0400",
       "melon_slice": "2019-05-18 00:38:18 -0400",
       "carrot": "2019-05-18 00:22:03 -0400"
     },
@@ -358,6 +374,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-05-16 21:05:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-05-18 01:38:11 -0400"
     },
     "done": true
   },
@@ -388,6 +410,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-05-16 21:38:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
     },
     "done": true
   },
@@ -710,6 +738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-05-16 21:07:25 -0400"
@@ -799,6 +833,7 @@
       "minecraft:skeleton": "2019-05-16 21:50:23 -0400",
       "minecraft:spider": "2019-05-16 22:29:27 -0400",
       "minecraft:creeper": "2019-05-16 22:02:23 -0400",
+      "minecraft:stray": "2019-05-18 01:31:34 -0400",
       "minecraft:zombie": "2019-05-16 21:52:36 -0400"
     },
     "done": false
@@ -869,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-16 21:35:48 -0400"
@@ -929,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-05-18 01:38:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-05-17 21:49:09 -0400"
@@ -938,6 +985,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-05-17 21:40:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
     },
     "done": true
   },
@@ -1046,6 +1099,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-05-16 21:42:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
     },
     "done": true
   },
@@ -1235,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-05-16 21:25:42 -0400"
@@ -1408,6 +1473,7 @@
       "minecraft:deep_cold_ocean": "2019-05-17 20:57:43 -0400",
       "minecraft:snowy_tundra": "2019-05-16 22:28:43 -0400",
       "minecraft:taiga_hills": "2019-05-17 20:45:17 -0400",
+      "minecraft:frozen_river": "2019-05-18 01:20:01 -0400",
       "minecraft:deep_frozen_ocean": "2019-05-17 21:00:25 -0400",
       "minecraft:jungle": "2019-05-16 21:11:18 -0400",
       "minecraft:jungle_hills": "2019-05-16 21:06:03 -0400",
@@ -1519,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2019-05-16 21:05:10 -0400"
@@ -1597,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-18 01:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-05-16 21:38:57 -0400"
@@ -1606,6 +1684,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-05-16 21:45:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-05-18 01:38:11 -0400"
     },
     "done": true
   },
