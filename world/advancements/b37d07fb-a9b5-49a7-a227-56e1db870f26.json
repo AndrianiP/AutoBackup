@@ -346,6 +346,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2019-05-18 02:23:52 -0400",
       "baked_potato": "2019-05-16 21:04:31 -0400",
       "suspicious_stew": "2019-05-18 01:21:54 -0400",
       "melon_slice": "2019-05-18 00:38:18 -0400",
@@ -362,6 +363,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-05-16 21:05:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-05-18 02:02:24 -0400"
     },
     "done": true
   },
@@ -831,6 +838,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-05-16 21:50:23 -0400",
+      "minecraft:zombie_pigman": "2019-05-18 02:02:24 -0400",
       "minecraft:spider": "2019-05-16 22:29:27 -0400",
       "minecraft:creeper": "2019-05-16 22:02:23 -0400",
       "minecraft:stray": "2019-05-18 01:31:34 -0400",
@@ -1481,6 +1489,7 @@
       "minecraft:beach": "2019-05-17 20:57:28 -0400",
       "minecraft:dark_forest": "2019-05-17 20:53:24 -0400",
       "minecraft:river": "2019-05-17 20:53:15 -0400",
+      "minecraft:snowy_taiga": "2019-05-18 01:57:23 -0400",
       "minecraft:wooded_mountains": "2019-05-17 20:47:36 -0400",
       "minecraft:bamboo_jungle_hills": "2019-05-17 20:43:49 -0400",
       "minecraft:wooded_hills": "2019-05-16 20:46:26 -0400",

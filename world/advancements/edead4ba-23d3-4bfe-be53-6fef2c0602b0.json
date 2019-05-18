@@ -336,6 +336,7 @@
       "beetroot_soup": "2019-05-18 00:55:42 -0400",
       "apple": "2019-05-17 23:07:42 -0400",
       "cooked_cod": "2019-05-17 23:19:33 -0400",
+      "bread": "2019-05-18 02:12:44 -0400",
       "cooked_chicken": "2019-05-15 23:27:09 -0400",
       "cooked_salmon": "2019-05-15 22:08:56 -0400"
     },
@@ -404,6 +405,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-15 23:20:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-05-18 02:30:08 -0400"
     },
     "done": true
   },
@@ -1221,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-05-18 02:37:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-05-15 22:43:34 -0400"
@@ -1248,6 +1261,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-18 01:28:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-05-18 02:12:37 -0400"
     },
     "done": true
   },
@@ -1698,6 +1717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-05-18 02:33:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2019-05-15 22:43:08 -0400"
@@ -1815,6 +1840,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-05-15 22:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-05-18 02:12:37 -0400"
     },
     "done": true
   },
